@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 13.iml" filepath="$PROJECT_DIR$/.idea/Day 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic.iml" filepath="$PROJECT_DIR$/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Generic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Generic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Generic.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Generic.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main.main.iml" filepath="$PROJECT_DIR$/.idea/modules/main.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main.test.iml" filepath="$PROJECT_DIR$/.idea/modules/main.test.iml" />
+    </modules>
+  </component>
+</project>

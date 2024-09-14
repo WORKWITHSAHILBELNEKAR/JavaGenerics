@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Generic" target="21" />
+      <module name="Generic.main" target="21" />
+      <module name="Generic.test" target="21" />
+      <module name="main" target="21" />
+      <module name="main.main" target="21" />
+      <module name="main.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
